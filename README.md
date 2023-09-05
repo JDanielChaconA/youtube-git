@@ -1,2 +1,2 @@
 # youtube-git
-Este es el repositorio de código dell curso de Git del autor Jonmircha
+Este es el repositorio de código del curso de Git del autor Jonmircha
